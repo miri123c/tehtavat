@@ -6,5 +6,6 @@
 </head>
 <body>
     <h1>Tervetuloa GitHub Pages-sivustolleni!</h1>
-    <p>Tämä on ensimmäinen GitHub Pages -teksti.</p>
+    <h2>Tämä on ensimmäinen GitHub Pages -teksti.</h2>
+    <p>Tämä on toinen GitHub Pages -teksti.</p>
 </body>
