@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>GitHub Pages Sivuni</title>
@@ -9,4 +8,3 @@
     <h1>Tervetuloa GitHub Pages-sivustolleni!</h1>
     <p>Tämä on ensimmäinen GitHub Pages -teksti.</p>
 </body>
-</html>
